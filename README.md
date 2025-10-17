@@ -7,6 +7,9 @@
 
 Telegram交流群：[@CMLiussss](https://t.me/CMLiussss)
 
+# 混淆代码工具
+混淆代码：[https://www.lzltool.cn/js](https://www.lzltool.cn/js)
+
 # 开源
 我很抱歉因为特殊原因，只能给[关键源码](https://github.com/cmliu/epeius/blob/237bc316dd0d0cbfd90e0118354363eb5742a2e4/_worker.src.js#L366)进行了混淆，以起到保护项目的目的。如果你是开发者需要源码，可以通过TG联系我将源码发给你。
 
